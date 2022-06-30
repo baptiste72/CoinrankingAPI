@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CoinrankingAPI</string>
+    <string name="logo">Logo</string>
+    <string name="eseo">ESEO</string>
+    <string name="baptiste">Baptiste Chauvelier</string>
+    <string name="constantin">Constantin Chtanko</string>
+    <string name="get_coin_list">Get coin list</string>
+    <string name="icon">Icon</string>
+    <string name="get_more_info">Get more info</string>
+</resources>
